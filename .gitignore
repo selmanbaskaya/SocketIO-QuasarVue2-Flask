@@ -5,5 +5,6 @@ fe_socketio/.quasar
 fe_socketio/.vscode/extensions.json
 fe_socketio/.vscode/settings.json
 be_socketio/__pycache__/
+be_socketio/app/__pycache__/
 be_socketio/venv/
 be_socketio/.idea
