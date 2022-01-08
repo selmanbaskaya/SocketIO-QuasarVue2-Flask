@@ -3,8 +3,9 @@
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
-      style="width: 400px; height: 400px"
+      style="width: 350px; height: 350px"
     />
+    Hello World!!
   </q-page>
 </template>
 
