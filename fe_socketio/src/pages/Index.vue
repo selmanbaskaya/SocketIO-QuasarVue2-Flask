@@ -3,7 +3,7 @@
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
-      style="width: 350px; height: 350px"
+      style="width: 450px; height: 450px"
     />
     github.com/selmanbaskaya
   </q-page>
