@@ -3,9 +3,10 @@
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
-      style="width: 350px; height: 350px"
+      style="width: 300px; height: 300px"
     />
     github.com/selmanbaskaya
+    youtube.com/selmanbaskaya
   </q-page>
 </template>
 
