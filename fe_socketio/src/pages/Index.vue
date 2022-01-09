@@ -6,6 +6,7 @@
       style="width: 450px; height: 450px"
     />
     github.com/selmanbaskaya
+    youtube.com/selmanbaskaya
   </q-page>
 </template>
 
